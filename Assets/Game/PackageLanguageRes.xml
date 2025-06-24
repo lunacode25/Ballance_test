@@ -1,0 +1,624 @@
+<I18n>
+  <Language name="ChineseSimplified">
+    <Text name="core.ui.Back">返回</Text>
+    <Text name="core.ui.Ok">确定</Text>
+    <Text name="core.ui.Yes">是</Text>
+    <Text name="core.ui.No">否</Text>
+    <Text name="core.ui.Cancel">取消</Text>
+    <Text name="core.ui.Restart">重启游戏</Text>
+    <Text name="core.ui.RestartLevel">重新开始关卡</Text>
+    <Text name="core.ui.Quit">退出</Text>
+    <Text name="core.ui.Tip">提示</Text>
+    <Text name="core.ui.Continue">继续</Text>
+    <Text name="core.ui.QuitToMenu">返回主菜单</Text>
+    <Text name="core.ui.AboutProject">关于此项目</Text>
+    <Text name="core.ui.AboutOldCreators">主创人员</Text>
+    <Text name="core.ui.AbouOpenSourceLicense">开源许可</Text>
+    <Text name="core.ui.GoGithub">前往项目 GitHub </Text>
+    <Text name="core.ui.NoLevelData">无数据</Text>
+    <Text name="core.ui.WinUILevelBonus">关卡分数</Text>
+    <Text name="core.ui.WinUITimePoints">剩余时间点</Text>
+    <Text name="core.ui.WinUIExtraLife">额外的生命</Text>
+    <Text name="core.ui.WinUIPoints">分</Text>
+    <Text name="core.ui.WinUIScore">分数</Text>
+    <Text name="core.ui.WinUINewHighScore">新的高分！</Text>
+    <Text name="core.ui.WinUIEnterYourName">留下你的大名吧</Text>
+    <Text name="core.ui.WinUIWin">胜利！</Text>
+    <Text name="core.ui.WinUINext">下一关</Text>
+    <Text name="core.ui.ChangeLanageNotice">更改的语言设置将会在下一次重启游戏时生效，您想现在重启游戏吗？</Text>
+    <Text name="core.ui.MainMenuStart">开始</Text>
+    <Text name="core.ui.MainMenuHighScore">高分</Text>
+    <Text name="core.ui.MainMenuSettings">设置</Text>
+    <Text name="core.ui.MainMenuAbout">关于</Text>
+    <Text name="core.ui.MainMenuQuit">退出</Text>
+    <Text name="core.ui.MainMenuQuitTitle">你想退出游戏吗？</Text>
+    <Text name="core.ui.MainMenuRestartLevelTitle">你想重新开始这一关卡吗？</Text>
+    <Text name="core.ui.StartMenuCustom">自定义</Text>
+    <Text name="core.ui.StartMenuNMO">NMO File</Text>
+    <Text name="core.ui.SettingsMenuTilte">设置</Text>
+    <Text name="core.ui.SettingsMenuVSync">垂直同步?</Text>
+    <Text name="core.ui.SettingsMenuFullScreen">全屏?</Text>
+    <Text name="core.ui.SettingsMenuCloud">显示云层?</Text>
+    <Text name="core.ui.SettingsMenuResolution">屏幕分辨率</Text>
+    <Text name="core.ui.SettingsMenuQuality">画质</Text>
+    <Text name="core.ui.SettingsControlTilte">控制</Text>
+    <Text name="core.ui.SettingsControlMenuReverseControl">反向旋转</Text>
+    <Text name="core.ui.SettingsControlMenuForward">向前</Text>
+    <Text name="core.ui.SettingsControlMenuBack">向后</Text>
+    <Text name="core.ui.SettingsControlMenuLeft">向左</Text>
+    <Text name="core.ui.SettingsControlMenuRight">向右</Text>
+    <Text name="core.ui.SettingsControlMenuUp">升高</Text>
+    <Text name="core.ui.SettingsControlMenuDown">下降</Text>
+    <Text name="core.ui.SettingsControlMenuRotateCam">旋转</Text>
+    <Text name="core.ui.SettingsControlMenuRotateCam2">旋转2</Text>
+    <Text name="core.ui.SettingsControlMenuOverlook">俯视</Text>
+    <Text name="core.ui.SettingsControlUISize">键盘大小</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseLeft">按键式左</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseRight">按键式右</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseCenter">按键式两侧</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseJoyLeft">摇杆式左（不能走单轨）</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseJoyRight">摇杆式右（不能走单轨）</Text>
+    <Text name="core.ui.SettingsAudioTilte">声音</Text>
+    <Text name="core.ui.SettingsAudioBackground">背景音乐音量</Text>
+    <Text name="core.ui.SettingsAudioMain">主音量</Text>
+    <Text name="core.ui.SettingsAudioUI">界面音效音量</Text>
+    <Text name="core.ui.SettingsLanguageTilte">语言</Text>
+    <Text name="core.ui.SettingsPackageTilte">模组管理器</Text>
+    <Text name="core.ui.SettingsGraphicsTilte">视频</Text>
+    <Text name="core.ui.SettingsQualityVeryLow">最低</Text>
+    <Text name="core.ui.SettingsQualityLow">低</Text>
+    <Text name="core.ui.SettingsQualityMedium">中等</Text>
+    <Text name="core.ui.SettingsQualityHigh">高</Text>
+    <Text name="core.ui.SettingsQualityVeryHigh">极高</Text>
+    <Text name="core.ui.SettingsQualityUltra">最高</Text>
+    <Text name="core.ui.LevelLoaderErrorUITitle">加载关卡失败</Text>
+    <Text name="core.ui.LevelLoaderErrorUIMessage">关卡开发者：您可以按 F12 进入控制台查看更多错误信息。
+玩家：如果这是第三方玩家制作的关卡，您可以向制作者反馈错误信息。
+如果这是游戏自带关卡，您可以点击 “提交BUG” 或访问 
+https://github.com/imengyu/ballance/issues/ 向我们反馈错误
+    </Text>
+    <Text name="core.ui.LevelLoaderErrorUISubmitBug">提交BUG</Text>
+    <Text name="core.ui.LevelLoaderErrorUICopyErrInfo">复制错误信息</Text>
+    <Text name="core.ui.ErrorUIErrInfoCopied">错误信息已复制到剪贴板</Text>
+    <Text name="core.ui.SettingsYouAreInDebugMode">你已经在开发者模式了哦，第一次开启需要重启游戏才能生效</Text>
+    <Text name="core.ui.SettingsClickNTimeToDebugMode">再点击 {0} 次进入开发者模式了</Text>
+    <Text name="core.ui.SettingsVersion">版本：{0}</Text>
+    <Text name="core.ui.StartThisLevel">游玩此关卡</Text>
+    <Text name="core.ui.PreviewThisLevel">预览此关卡</Text>
+    <Text name="core.ui.Refresh">刷新</Text>
+    <Text name="core.ui.Unknow">未知</Text>
+    <Text name="core.ui.FileNotExist">文件不存在</Text>
+    <Text name="core.ui.Loading">正在加载，请稍后</Text>
+    <Text name="core.ui.ChooseLevelInLeft">在左侧选择一个你要加载的关卡</Text>
+    <Text name="core.ui.NoCustomLevel">看起来你没有安装任何自定义关卡，访问帮助文档了解如何安装自定义关卡</Text>
+    <Text name="core.ui.LevelNoDepends">此关卡没有依赖额外的模组</Text>
+    <Text name="core.ui.LevelHasDepends">此关卡依赖 {0} 个额外的模组，已成功加载</Text>
+    <Text name="core.ui.LevelHasBadDepends">此关卡依赖 {0} 个额外的模组，{1} 个未能成功加载</Text>
+    <Text name="core.ui.LevelEnableAllDepends">尝试启用此关卡的所有依赖</Text>
+    <Text name="core.ui.LevelAllDependsTile">关卡 {0} 的所有依赖 ({1})</Text>
+    <Text name="core.ui.VersionMismatch">依赖版本过低</Text>
+    <Text name="core.ui.LevelEnableAllDependsTodo">暂时不支持自动下载或启用依赖，请手动开启或安装</Text>
+    <Text name="core.ui.PackageManagerEnableAll">启用所有模组</Text>
+    <Text name="core.ui.PackageManagerDisableAll">禁用所有模组</Text>
+    <Text name="core.ui.PackageManagerSave">保存修改</Text>
+    <Text name="core.ui.PackageManagerUnLoad">卸载</Text>
+    <Text name="core.ui.PackageManagerSetting">设置</Text>
+    <Text name="core.ui.PackageManagerTip">模组修改提示</Text>
+    <Text name="core.ui.PackageManagerChangeTip"> 改动了 {0} 个模组</Text>
+    <Text name="core.ui.PackageManagerStatus"> 共有 {0} 个模组，已启用 {1} 个</Text>
+    <Text name="core.ui.PackageManagerGiveUpSave">放弃修改</Text>
+    <Text name="core.ui.PackageManagerPackNotFound">没有找到模组 {0}，它似乎没有在这里安装。</Text>
+    <Text name="core.ui.PackageManagerOptional">可选</Text>
+    <Text name="core.ui.PackageManagerNoDepends">此模组没有依赖额外的模组</Text>
+    <Text name="core.ui.PackageManagerTrustTitle">模组 {0} 正在尝试加载一个C#模块，是否允许？</Text>
+    <Text name="core.ui.PackageManagerTrustDescrb">模组C#模块拥有完全的文件访问权限，如果允许，此模组将可以访问您个人文件，并有能力对您的计算机修改设置。因此，加载此模块是比较危险的，在加载之前，请确认此模组是否在官方下载。如果您不信任此模组，请不要加载。</Text>
+    <Text name="core.ui.PackageManagerTrustAndsLoad">信任并且加载</Text>
+    <Text name="core.ui.PackageManagerNotTrust">不信任</Text>
+    <Text name="core.ui.PackageManagerNotTrustAndDelete">不信任并删除</Text>
+    <Text name="core.ui.PackageManagerCheckInfo">查看模组信息</Text>
+    <Text name="core.ui.PackageManagerNoDepends">此模组没有依赖额外的模组</Text>
+    <Text name="core.ui.PackageManagerLinkVisitSite">访问项目主页</Text>
+    <Text name="core.ui.PackageManagerLinkVisitDoc">访问文档</Text>
+    <Text name="core.ui.PackageManagerLinkVisiAuthor">访问作者主页</Text>
+    <Text name="core.ui.PackageManagerPackageInfoTitle">模组信息</Text>
+    <Text name="core.ui.PackageManagerPackageIntroductionTitle">模组简介</Text>
+    <Text name="core.ui.PackageManagerPackageDependsTitle">模组依赖的模组</Text>
+    <Text name="core.ui.PackageManagerPackageName">包名</Text>
+    <Text name="core.ui.PackageManagerPackageVersion">版本</Text>
+    <Text name="core.ui.PackageManagerPackageAuthor">作者</Text>
+    <Text name="core.ui.PackageManagerPackageInstallTime">安装和更新时间</Text>
+    <Text name="core.ui.PackageSystemPackage">核心模组无法卸载或禁用</Text>
+    <Text name="core.ui.PackageWantUnaload">你希望卸载模组吗？它将立即从游戏中卸载。模组文件将被删除，无法恢复！</Text>
+    <Text name="core.ui.PackageUnaloadTip">卸载模组提示</Text>
+    <Text name="core.ui.PackageManagerSettingUITitle">模组 {0} 的自定义配置</Text>
+    <Text name="core.ui.TutorialText1">欢迎来到 Ballance！
+Ballance 平衡球 是一款滚球游戏。
+你需要操纵一个球，穿过一个充满了令人费解机制的超现实云世界，经历一系列的挑战，通过富有想象力的路线来操纵小巧到达终点。
+
+游戏教程：
+您可以随时使用“ESC”键停止或退出游戏。
+你可以按“回车”键继续游戏教程，或按“Q”键退出教程。
+    </Text>
+    <Text name="core.ui.TutorialText2">视图旋转：
+按住左“SHIFT”键并使用“LEFT”或“RIGHT”箭头键将视图旋转90°。
+
+按“回车”键继续...
+    </Text>
+    <Text name="core.ui.TutorialText3">俯瞰视图：
+按住“空格键”以升高摄像机，你可以看的更高。
+
+按“回车”键继续...
+    </Text>
+    <Text name="core.ui.TutorialText4">移动球：
+请将视线转向前方，直到看到前面有两座塔楼的轨道。
+使用“箭头”键（不带“SHIFT”）向前、向后、向左和向右移动球。
+
+请沿着这条路走！
+    </Text>
+    <Text name="core.ui.TutorialText5">额外生命球：
+如果你从轨道上掉下来，你就会失去一条生命。你的剩余生命将显示在屏幕的右下角。通过碰撞“额外生命球”，你可以获得额外的生命。
+
+按“回车”键继续...
+    </Text>
+    <Text name="core.ui.TutorialText6">变球器：
+通过使用“变球器”，你可以改变球的材质。变球器显示的材料表示变球器的类型。
+
+这是一个石质变球器。
+
+按“回车”键继续...
+    </Text>
+    <Text name="core.ui.TutorialText7">这个斜坡太陡了，不能用石球！
+
+找一个木制变球器，再试一次。
+
+提示：转动视图（SHIFT+LEFT/RIGHT），以获得更好的方向。向后滚动可能很危险！
+
+按“回车”键继续...
+    </Text>
+    <Text name="core.ui.TutorialText8">额外分数球：
+
+左边的显示屏显示的是你的实际时间点，在比赛中时间点会不断减少。你可以通过多拿一个分数球来提高分数。
+
+按“回车”键继续...
+    </Text>
+    <Text name="core.ui.TutorialText9">检查点：
+
+这是你必须通过的第一个检查点。
+
+如果你在游戏中失去了生命，你可以从最后一个检查点继续游戏。
+
+按“回车”键继续...
+    </Text>
+    <Text name="core.ui.TutorialText10">最后有一些提示：
+
+如果你在某个时候遇到困难或需要一些技术帮助，请查看“Ballance HTML帮助”，它可以通过Windows开始菜单访问（不是在游戏期间！）。
+
+额外提示：上面是原版提示。如果你遇到了游戏的BUG或是有新的建议，请前往项目 https://github.com/imengyu/ballance/issues/ 向我们提交 Issues 反馈错误。
+
+欢迎前往 Ballance 吧讨论游戏！
+
+按“回车”键退出教程...
+    </Text>
+    <Text name="core.ui.ProjectAbout">
+Ballance Rebuild 是滚球 Ballance 游戏的开源 Unity 重制版，由 快乐的梦鱼 制作。
+
+你可以游玩这个重制版，还可以根据此重制版制作自定义模组或者地图，分享给其他玩家游玩。
+
+项目的源代码存放在 https://github.com/imengyu/Ballance 。
+
+如果你遇到了BUG，或者有很棒的点子，建议，欢迎前往项目主页 https://github.com/imengyu/Ballance 提交你的 Issue，我们一起讨论呀。
+
+如果希望为Ballance开发自己的mod，关卡，欢迎前往 https://github.com/imengyu/Ballance/wiki 了解相关教程！
+
+也欢迎在 Ballance 吧讨论游戏。
+    </Text>
+  </Language>
+  <Language name="English">
+    <Text name="core.ui.Back">Back</Text>
+    <Text name="core.ui.Ok">Ok</Text>
+    <Text name="core.ui.Yes">Yes</Text>
+    <Text name="core.ui.No">No</Text>
+    <Text name="core.ui.Cancel">Cancel</Text>
+    <Text name="core.ui.Restart">Restart game</Text>
+    <Text name="core.ui.RestartLevel">Restart Level</Text>
+    <Text name="core.ui.Quit">Quit</Text>
+    <Text name="core.ui.Tip">Tip</Text>
+    <Text name="core.ui.Unknow">Unknow</Text>
+    <Text name="core.ui.Continue">Continue</Text>
+    <Text name="core.ui.QuitToMenu">Back To Menu</Text>
+    <Text name="core.ui.AboutProject">About Project</Text>
+    <Text name="core.ui.AboutOldCreators">Creators</Text>
+    <Text name="core.ui.AbouOpenSourceLicense">Open Source License</Text>
+    <Text name="core.ui.GoGithub">Go project GitHub </Text>
+    <Text name="core.ui.WinUILevelBonus">Level Bonus</Text>
+    <Text name="core.ui.WinUITimePoints">Time Points</Text>
+    <Text name="core.ui.WinUIExtraLife">Extra Life</Text>
+    <Text name="core.ui.WinUIPoints">Points</Text>
+    <Text name="core.ui.WinUIScore">Score</Text>
+    <Text name="core.ui.WinUINewHighScore">New Highscore!</Text>
+    <Text name="core.ui.WinUIEnterYourName">Enter Your Name</Text>
+    <Text name="core.ui.WinUIWin">Win !</Text>
+    <Text name="core.ui.WinUINext">Next Level</Text>
+    <Text name="core.ui.ChangeLanageNotice">The changed language settings will take effect the next time you restart the game. Do you want to restart the game now?</Text>
+    <Text name="core.ui.MainMenuStart">Start</Text>
+    <Text name="core.ui.MainMenuHighScore">Highscore</Text>
+    <Text name="core.ui.MainMenuSettings">Settings</Text>
+    <Text name="core.ui.MainMenuAbout">About</Text>
+    <Text name="core.ui.MainMenuQuit">Quit</Text>
+    <Text name="core.ui.MainMenuQuitTitle">Do you want to quit the game?</Text>
+    <Text name="core.ui.MainMenuRestartLevelTitle">Do you want to restart this level?</Text>
+    <Text name="core.ui.StartMenuCustom">Custem</Text>
+    <Text name="core.ui.SettingsMenuTilte">Settings</Text>
+    <Text name="core.ui.SettingsMenuVSync">VSync?</Text>
+    <Text name="core.ui.SettingsMenuFullScreen">FullScreen?</Text>
+    <Text name="core.ui.SettingsMenuCloud">Show Cloud?</Text>
+    <Text name="core.ui.SettingsMenuResolution">Resolution</Text>
+    <Text name="core.ui.SettingsMenuQuality">Quality</Text>
+    <Text name="core.ui.SettingsControlTilte">Control</Text>
+    <Text name="core.ui.SettingsControlMenuReverseControl">Reverse Rotation</Text>
+    <Text name="core.ui.SettingsControlMenuForward">Forward</Text>
+    <Text name="core.ui.SettingsControlMenuBack">Back</Text>
+    <Text name="core.ui.SettingsControlMenuLeft">Left</Text>
+    <Text name="core.ui.SettingsControlMenuRight">Right</Text>
+    <Text name="core.ui.SettingsControlMenuUp">Up</Text>
+    <Text name="core.ui.SettingsControlMenuDown">Dwon</Text>
+    <Text name="core.ui.SettingsControlMenuRotateCam">Rotate Camera</Text>
+    <Text name="core.ui.SettingsControlMenuRotateCam2">Rotate Camera 2nd</Text>
+    <Text name="core.ui.SettingsControlMenuOverlook">Overlook</Text>
+    <Text name="core.ui.SettingsControlUISize">Keyboard size</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseLeft">Action keys in left</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseRight">Action keys in right</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseCenter">Action keys two side</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseJoyLeft">Joystick in left (Cannot walk on a monorail)</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseJoyRight">Joystick in right (Cannot walk on a monorail)</Text>
+    <Text name="core.ui.SettingsAudioTilte">Audio</Text>
+    <Text name="core.ui.SettingsAudioBackground">Background music volume</Text>
+    <Text name="core.ui.SettingsAudioMain">Main volume</Text>
+    <Text name="core.ui.SettingsAudioUI">UI volume</Text>
+    <Text name="core.ui.SettingsLanguageTilte">Language</Text>
+    <Text name="core.ui.SettingsPackageTilte">Module manager</Text>
+    <Text name="core.ui.SettingsGraphicsTilte">Graphics</Text>
+    <Text name="core.ui.SettingsQualityVeryLow">VeryLow</Text>
+    <Text name="core.ui.SettingsQualityLow">Low</Text>
+    <Text name="core.ui.SettingsQualityMedium">Medium</Text>
+    <Text name="core.ui.SettingsQualityHigh">High</Text>
+    <Text name="core.ui.SettingsQualityVeryHigh">VeryHigh</Text>
+    <Text name="core.ui.SettingsQualityUltra">Ultra</Text>
+    <Text name="core.ui.LevelLoaderErrorUITitle">Level load failed</Text>
+    <Text name="core.ui.LevelLoaderErrorUIMessage">Level developer: you can press F12 to open console to view more error information.
+Player: if this is a level made by a third party player, you can feed back error information to the producer.
+If this is the game's original level, you can click "Submit bug" or visit
+https://github.com/imengyu/ballance/issues/ Feedback errors to us.
+    </Text>
+    <Text name="core.ui.LevelLoaderErrorUISubmitBug">Submit bug</Text>
+    <Text name="core.ui.LevelLoaderErrorUICopyErrInfo">Copy error message</Text>
+    <Text name="core.ui.ErrorUIErrInfoCopied">Error message copied !</Text>
+    <Text name="core.ui.SettingsYouAreInDebugMode">You're already in developer mode, you need to restart the game for the first time to take effect</Text>
+    <Text name="core.ui.SettingsClickNTimeToDebugMode">Click {0} again to enter the developer mode</Text>
+    <Text name="core.ui.SettingsVersion">Version: {0}</Text>
+    <Text name="core.ui.StartThisLevel">Start this Level</Text>
+    <Text name="core.ui.StartMenuNMO">NMO level</Text>
+    <Text name="core.ui.PreviewThisLevel">Preview this Level</Text>
+    <Text name="core.ui.NoLevelData">NoLevelData</Text>
+    <Text name="core.ui.Refresh">Refresh</Text>
+    <Text name="core.ui.FileNotExist">File not exist</Text>
+    <Text name="core.ui.Loading">Loading, please wait</Text>
+    <Text name="core.ui.ChooseLevelInLeft">Select a level you want to load on the left</Text>
+    <Text name="core.ui.NoCustomLevel">It looks like you haven't installed any custom levels. Visit the help documentation to learn how to install custom levels</Text>
+    <Text name="core.ui.LevelNoDepends">This level does not rely on any additional modules</Text>
+    <Text name="core.ui.LevelHasDepends">This level depends on {0} additional modules and has been loaded successfully</Text>
+    <Text name="core.ui.LevelHasBadDepends">This level depends on {0} additional modules, {1} failed to load</Text>
+    <Text name="core.ui.LevelEnableAllDepends">Try to enable all dependencies for this level</Text>
+    <Text name="core.ui.LevelAllDependsTile">All dependencies of level {0} ({1})</Text>
+    <Text name="core.ui.VersionMismatch">Dependency version too low</Text>
+    <Text name="core.ui.LevelEnableAllDependsTodo">We do not support automatic download or enable dependency now, please open or install manually.</Text>
+    <Text name="core.ui.PackageManagerEnableAll">Enable all modules</Text>
+    <Text name="core.ui.PackageManagerDisableAll">Disable all modules</Text>
+    <Text name="core.ui.PackageManagerSave">Save changes</Text>
+    <Text name="core.ui.PackageManagerUnLoad">UnLoad</Text>
+    <Text name="core.ui.PackageManagerSetting">Setting</Text>
+    <Text name="core.ui.PackageManagerTip">Tip</Text>
+    <Text name="core.ui.PackageManagerChangeTip"> {0} modules state changed</Text>
+    <Text name="core.ui.PackageManagerStatus">There are {0} modules in total, and {1} have been enabled</Text>
+    <Text name="core.ui.PackageManagerGiveUpSave">Discard changes</Text>
+    <Text name="core.ui.PackageManagerPackNotFound">The module {0} was not found and does not appear to be installed here.</Text>
+    <Text name="core.ui.PackageManagerOptional">Optional</Text>
+    <Text name="core.ui.PackageManagerNoDepends">This module does not depend on any additional modules</Text>
+    <Text name="core.ui.PackageManagerTrustTitle">Module {0} is trying to load a c# module. Do you want to allow it?</Text>
+    <Text name="core.ui.PackageManagerTrustDescrb">Module in c# is poweful and dangerous. If allowed, this module will be able to access your personal files and modify the settings of your computer. Therefore, it is dangerous to load this module. Please confirm whether this module is officially downloaded before loading. If you do not trust this module, please do not load it.</Text>
+    <Text name="core.ui.PackageManagerTrustAndsLoad">Trust and load</Text>
+    <Text name="core.ui.PackageManagerNotTrust">Distrust</Text>
+    <Text name="core.ui.PackageManagerNotTrustAndDelete">Distrust and delete</Text>
+    <Text name="core.ui.PackageManagerCheckInfo">View module information</Text>
+    <Text name="core.ui.PackageManagerLinkVisitSite">Visit project home page</Text>
+    <Text name="core.ui.PackageManagerLinkVisitDoc">Visit document page</Text>
+    <Text name="core.ui.PackageManagerLinkVisiAuthor">Visit author's home page</Text>
+    <Text name="core.ui.PackageManagerPackageInfoTitle">Module information</Text>
+    <Text name="core.ui.PackageManagerPackageIntroductionTitle">Module introduction</Text>
+    <Text name="core.ui.PackageManagerPackageDependsTitle">Module dependencies</Text>
+    <Text name="core.ui.PackageManagerPackageName">Package name</Text>
+    <Text name="core.ui.PackageManagerPackageVersion">Version</Text>
+    <Text name="core.ui.PackageManagerPackageAuthor">Author</Text>
+    <Text name="core.ui.PackageManagerPackageInstallTime">Installation and update time</Text>
+    <Text name="core.ui.PackageSystemPackage">Core module cannot be uninstalled or disabled</Text>
+    <Text name="core.ui.PackageWantUnaload">Do you want to uninstall the module? It will be uninstalled from the game immediately. The module file will be deleted and cannot be recovered!</Text>
+    <Text name="core.ui.PackageUnaloadTip">Uninstall module tip</Text>
+    <Text name="core.ui.PackageManagerSettingUITitle">Settings of mod {0}</Text>
+    <Text name="core.ui.TutorialText1">Game Tutorial:
+You may halt or quit the game any time using the "ESC" key.
+You may continue the game tutorial with the "RETURN" key or quit the tutorial by pressing "Q".
+    </Text>
+    <Text name="core.ui.TutorialText2">View Rotation: 
+Keep the left "SHIFT" key pressed and use the "LEFT" or "RIGHT" ARROW key to rotate the view in 90?steps.
+
+Continue with "RETURN" ...
+    </Text>
+    <Text name="core.ui.TutorialText3">Overview:
+Hold down the "SPACEBAR" to raise the viewpoint.
+
+Continue with "RETURN" ...
+    </Text>
+    <Text name="core.ui.TutorialText4">Navigation:
+Turn the view until the track with the two towers is in front of you.
+Use the "ARROW" keys (without "SHIFT") to move the ball forward, backward, left and right.
+Follow the path!
+    </Text>
+    <Text name="core.ui.TutorialText5">Life Extra:
+If you fall off the track, you lose one life. Your remaining lifes are displayed at the right bottom of the screen. You receive an additional life by picking up a "Life Extra".
+
+Continue with "RETURN"  ...
+    </Text>
+    <Text name="core.ui.TutorialText6">Transformer:
+With the use of "transformers" you can change the material of the ball. The material of the transformer field indicates the type of transformer. 
+This is a stone transformer.
+
+Continue with "RETURN" ... 
+    </Text>
+    <Text name="core.ui.TutorialText7">This slope is too steep for a stoneball!
+Look for a wood transformer and try again. 
+Hint: Turn the view (SHIFT + RIGHT/LEFT), to get a better orientation. Rolling backwards can be dangerous!
+
+Continue with "RETURN" ...
+    </Text>
+    <Text name="core.ui.TutorialText8">Point Extra:
+The display on the left shows your actual time-points, which are constantly decreasing during the game. You increase your score by picking up a Point Extra.
+
+Continue with "RETURN"  ...
+    </Text>
+    <Text name="core.ui.TutorialText9">Checkpoints:
+This is the first checkpoint you have to pass.
+In case you loose a life during the game, you can continue the game from the last checkpoint.
+
+Continue with "RETURN"  ...
+    </Text>
+    <Text name="core.ui.TutorialText10">Some hints at the end:
+In case you get stuck at some point or need some technical help, please take a look at the "Ballance HTML Help", which is accessible via the Windows Start Menu (not during the game!).
+
+Quit the tutorial with "RETURN" ...
+    </Text>
+    <Text name="core.ui.ProjectAbout">
+Ballance Rebuild is an open-source Unity remake of the Ball Ball game, produced by Happy Dreamfish.
+
+You can play this remastered version, and you can also create custom modules or maps based on this remastered version to share with other players.
+
+The source code of the project is stored in https://github.com/imengyu/Ballance 。
+
+If you encounter bugs or have great ideas, please feel free to visit the project homepage https://github.com/imengyu/Ballance Submit your issue and let's discuss it together.
+
+If you want to develop your own mod and level for Ballance, welcome to https://github.com/imengyu/Ballance/wiki Learn about related tutorials!
+
+Welcome to discuss the game at Ballance Discord.
+    </Text>
+  </Language>
+  <Language name="ChineseTraditional">
+    <Text name="core.ui.Back">返回</Text>
+    <Text name="core.ui.Ok">確定</Text>
+    <Text name="core.ui.Yes">是</Text>
+    <Text name="core.ui.No">否</Text>
+    <Text name="core.ui.Unknow">未知</Text>
+    <Text name="core.ui.Cancel">取消</Text>
+    <Text name="core.ui.Restart">重啓遊戲</Text>
+    <Text name="core.ui.Continue">继续</Text>
+    <Text name="core.ui.RestartLevel">重新開始關卡</Text>
+    <Text name="core.ui.Quit">退出</Text>
+    <Text name="core.ui.Tip">提示</Text>
+    <Text name="core.ui.NoLevelData">无数据</Text>
+    <Text name="core.ui.QuitToMenu">返回主菜單</Text>
+    <Text name="core.ui.AboutProject">關於此項目</Text>
+    <Text name="core.ui.AboutOldCreators">主創人員</Text>
+    <Text name="core.ui.AbouOpenSourceLicense">開源許可</Text>
+    <Text name="core.ui.GoGithub">前往項目 GitHub </Text>
+    <Text name="core.ui.WinUILevelBonus">關卡分數</Text>
+    <Text name="core.ui.WinUITimePoints">剩餘時間點</Text>
+    <Text name="core.ui.WinUIExtraLife">額外的生命</Text>
+    <Text name="core.ui.WinUIPoints">分</Text>
+    <Text name="core.ui.WinUIScore">分數</Text>
+    <Text name="core.ui.WinUINewHighScore">新的高分！</Text>
+    <Text name="core.ui.WinUIEnterYourName">留下你的大名吧</Text>
+    <Text name="core.ui.WinUIWin">勝利！</Text>
+    <Text name="core.ui.WinUINext">下一關</Text>
+    <Text name="core.ui.ChangeLanageNotice">更改的語言設定將會在下一次重啓遊戲時生效，您想現在重啓遊戲嗎？</Text>
+    <Text name="core.ui.MainMenuStart">開始</Text>
+    <Text name="core.ui.MainMenuHighScore">高分</Text>
+    <Text name="core.ui.MainMenuSettings">設定</Text>
+    <Text name="core.ui.MainMenuAbout">關於</Text>
+    <Text name="core.ui.MainMenuQuit">退出</Text>
+    <Text name="core.ui.MainMenuQuitTitle">你想退出遊戲嗎？</Text>
+    <Text name="core.ui.MainMenuRestartLevelTitle">你想重新開始這一關卡嗎？</Text>
+    <Text name="core.ui.StartMenuCustom">自定義</Text>
+    <Text name="core.ui.SettingsMenuTilte">設定</Text>
+    <Text name="core.ui.SettingsMenuVSync">垂直同步?</Text>
+    <Text name="core.ui.SettingsMenuFullScreen">全屏?</Text>
+    <Text name="core.ui.SettingsMenuCloud">顯示雲層?</Text>
+    <Text name="core.ui.SettingsMenuResolution">螢幕解析度</Text>
+    <Text name="core.ui.SettingsMenuQuality">畫質</Text>
+    <Text name="core.ui.SettingsControlTilte">控制</Text>
+    <Text name="core.ui.SettingsControlMenuReverseControl">反向旋转</Text>
+    <Text name="core.ui.SettingsControlMenuForward">向前</Text>
+    <Text name="core.ui.SettingsControlMenuBack">向後</Text>
+    <Text name="core.ui.SettingsControlMenuLeft">向左</Text>
+    <Text name="core.ui.SettingsControlMenuRight">向右</Text>
+    <Text name="core.ui.SettingsControlMenuUp">升高</Text>
+    <Text name="core.ui.SettingsControlMenuDown">下降</Text>
+    <Text name="core.ui.SettingsControlMenuRotateCam">旋轉</Text>
+    <Text name="core.ui.SettingsControlMenuRotateCam">旋轉2</Text>
+    <Text name="core.ui.SettingsControlMenuOverlook">俯視</Text>
+    <Text name="core.ui.SettingsControlUISize">鍵盤大小</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseLeft">按鍵式左</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseRight">按鍵式右</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseCenter">按鍵式两侧</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseJoyLeft">搖杆式左（不能走單軌）</Text>
+    <Text name="core.ui.SettingsControlKeypadBaseJoyRight">搖杆式右（不能走單軌）</Text>
+    <Text name="core.ui.SettingsAudioTilte">聲音</Text>
+    <Text name="core.ui.SettingsAudioBackground">背景音樂音量</Text>
+    <Text name="core.ui.SettingsAudioMain">主音量</Text>
+    <Text name="core.ui.SettingsAudioUI">介面音效音量</Text>
+    <Text name="core.ui.SettingsLanguageTilte">語言</Text>
+    <Text name="core.ui.SettingsPackageTilte">模組管理器</Text>
+    <Text name="core.ui.SettingsGraphicsTilte">視頻</Text>
+    <Text name="core.ui.SettingsQualityVeryLow">最低</Text>
+    <Text name="core.ui.SettingsQualityLow">低</Text>
+    <Text name="core.ui.SettingsQualityMedium">中等</Text>
+    <Text name="core.ui.SettingsQualityHigh">高</Text>
+    <Text name="core.ui.SettingsQualityVeryHigh">極高</Text>
+    <Text name="core.ui.SettingsQualityUltra">最高</Text>
+    <Text name="core.ui.LevelLoaderErrorUITitle">加載關卡失敗</Text>
+    <Text name="core.ui.LevelLoaderErrorUIMessage">關卡開發者：您可以按F12進入控制台查看更多錯誤資訊。
+玩家：如果這是協力廠商玩家製作的關卡，您可以向製作者迴響錯誤資訊。
+如果這是遊戲自帶關卡，您可以點擊“提交BUG”或訪問
+https://github.com/imengyu/ballance/issues/ 向我們迴響錯誤
+    </Text>
+    <Text name="core.ui.LevelLoaderErrorUISubmitBug">提交BUG</Text>
+    <Text name="core.ui.LevelLoaderErrorUICopyErrInfo">複製錯誤資訊</Text>
+    <Text name="core.ui.ErrorUIErrInfoCopied">錯誤資訊已複製到剪貼板</Text>
+    <Text name="core.ui.SettingsYouAreInDebugMode">你已經在開發者模式了，第一次开启需要重启游戏才能生效</Text>
+    <Text name="core.ui.SettingsClickNTimeToDebugMode">再點擊 {0} 次進入開發者模式</Text>
+    <Text name="core.ui.SettingsVersion">版本：{0}</Text>
+    <Text name="core.ui.StartThisLevel">遊玩此關卡</Text>
+    <Text name="core.ui.StartMenuNMO">NMO 關卡</Text>
+    <Text name="core.ui.PreviewThisLevel">預覽此關卡</Text>
+    <Text name="core.ui.Refresh">重繪</Text>
+    <Text name="core.ui.FileNotExist">檔案不存在</Text>
+    <Text name="core.ui.Loading">正在加載，請稍後</Text>
+    <Text name="core.ui.ChooseLevelInLeft">在左側選擇一個你要加載的關卡</Text>
+    <Text name="core.ui.NoCustomLevel">看起來你沒有安裝任何自定義關卡，訪問幫助文檔瞭解如何安裝自定義關卡</Text>
+    <Text name="core.ui.LevelNoDepends">此關卡沒有依賴額外的模組</Text>
+    <Text name="core.ui.LevelHasDepends">此關卡依賴{0}個額外的模組，已成功加載</Text>
+    <Text name="core.ui.LevelHasBadDepends">此關卡依賴 {0} 個額外的模組，{1} 個未能成功加載</Text>
+    <Text name="core.ui.LevelEnableAllDepends">嘗試啟用此關卡的所有依賴</Text>
+    <Text name="core.ui.LevelAllDependsTile">關卡 {0} 的所有依賴 ({1})</Text>
+    <Text name="core.ui.VersionMismatch">依賴版本過低</Text>
+    <Text name="core.ui.LevelEnableAllDependsTodo">暫時不支持自動下載或啟用賴版，請手動開啟或安裝</Text>
+    <Text name="core.ui.PackageManagerEnableAll">啟用所有模組</Text>
+    <Text name="core.ui.PackageManagerDisableAll">禁用所有模組</Text>
+    <Text name="core.ui.PackageManagerSave">保存修改</Text>
+    <Text name="core.ui.PackageManagerUnLoad">卸載</Text>
+    <Text name="core.ui.PackageManagerSetting">設定</Text>
+    <Text name="core.ui.PackageManagerTip">模組修改提示</Text>
+    <Text name="core.ui.PackageManagerChangeTip"> 改動了 {0} 個模組</Text>
+    <Text name="core.ui.PackageManagerStatus"> 共有 {0} 個模組，已啟用 {1} 個</Text>
+    <Text name="core.ui.PackageManagerGiveUpSave">放弃修改</Text>
+    <Text name="core.ui.PackageManagerPackNotFound">沒有找到模組 {0} ，它似乎沒有在這裡安裝。</Text>
+    <Text name="core.ui.PackageManagerOptional">可選</Text>
+    <Text name="core.ui.PackageManagerNoDepends">此模組沒有依賴額外的模組</Text>
+    <Text name="core.ui.PackageManagerTrustTitle">模組 {0} 正在嘗試加載一個C#模塊，是否允許？</Text>
+    <Text name="core.ui.PackageManagerTrustDescrb">模組C#模塊擁有完全的檔案存取權限，如果允許，此模組將可以訪問您個人檔案，並有能力對您的電腦修改設定。 囙此，加載此模塊是比較危險的，在加載之前，請確認此模組是否在官方下載。 如果您不信任此模組，請不要加載。</Text>
+    <Text name="core.ui.PackageManagerTrustAndsLoad">信任並且加載</Text>
+    <Text name="core.ui.PackageManagerNotTrust">不信任</Text>
+    <Text name="core.ui.PackageManagerNotTrustAndDelete">不信任並删除</Text>
+    <Text name="core.ui.PackageManagerCheckInfo">查看模組資訊</Text>
+    <Text name="core.ui.PackageManagerLinkVisitSite">訪問項目主頁</Text>
+    <Text name="core.ui.PackageManagerLinkVisitDoc">訪問檔案</Text>
+    <Text name="core.ui.PackageManagerLinkVisiAuthor">訪問作者主頁</Text>
+    <Text name="core.ui.PackageManagerPackageInfoTitle">模組資訊</Text>
+    <Text name="core.ui.PackageManagerPackageIntroductionTitle">模組簡介</Text>
+    <Text name="core.ui.PackageManagerPackageDependsTitle">模組依賴的模組</Text>
+    <Text name="core.ui.PackageManagerPackageName">包名</Text>
+    <Text name="core.ui.PackageManagerPackageVersion">版本</Text>
+    <Text name="core.ui.PackageManagerPackageAuthor">作者</Text>
+    <Text name="core.ui.PackageManagerPackageInstallTime">安裝和更新時間</Text>
+    <Text name="core.ui.PackageSystemPackage">覈心模組無法卸載或禁用</Text>
+    <Text name="core.ui.PackageWantUnaload">你希望卸載模組嗎？ 它將立即從遊戲中卸載。 模組檔案將被删除，無法恢復！</Text>
+    <Text name="core.ui.PackageUnaloadTip">卸載模組提示</Text>
+    <Text name="core.ui.PackageManagerSettingUITitle">模組 {0} 的自定义設定</Text>
+    <Text name="core.ui.TutorialText1">歡迎來到 Ballance！
+遊戲教程：
+您可以隨時使用“ESC”鍵停止或退出遊戲。
+你可以按“回車”鍵繼續遊戲教程，或按“Q”鍵退出教程。
+
+    </Text>
+    <Text name="core.ui.TutorialText2">視圖旋轉：
+按住左“SHIFT”鍵並使用“LEFT”或“RIGHT”箭頭鍵將視圖旋轉90°。
+
+按“回車”鍵繼續…
+    </Text>
+    <Text name="core.ui.TutorialText3">俯瞰視圖：
+按住“空白鍵”以升高攝像機，你可以看的更高。
+
+按“回車”鍵繼續…
+    </Text>
+    <Text name="core.ui.TutorialText4">移動球：
+請將視線轉向前方，直到看到前面有兩座塔樓的軌道。
+使用“箭頭”鍵（不帶“SHIFT”）向前、向後、向左和向右移動球。
+
+请沿着这条路走！
+    </Text>
+    <Text name="core.ui.TutorialText5">額外生命球：
+如果你從軌道上掉下來，你就會失去一條生命。 你的剩餘生命將顯示在荧幕的右下角。 通過碰撞“額外生命球”，你可以獲得額外的生命。
+
+按“回車”鍵繼續…
+    </Text>
+    <Text name="core.ui.TutorialText6">變球器：
+通過使用“變球器”，你可以改變球的材質。 變球器顯示的資料表示變球器的類型。
+
+這是一個石質變球器。
+
+按“回車”鍵繼續…
+    </Text>
+    <Text name="core.ui.TutorialText7">這個斜坡太陡了，不能用石球！
+
+找一個木制變球器，再試一次。
+
+提示：轉動視圖（SHIFT+LEFT/RIGHT），以獲得更好的方向。 向後滾動可能很危險！
+
+按“回車”鍵繼續…
+    </Text>
+    <Text name="core.ui.TutorialText8">額外分數球：
+
+左邊的顯示幕顯示的是你的實際時間點，在比賽中時間點會不斷减少。 你可以通過多拿一個分數球來提高分數。
+
+按“回車”鍵繼續…
+    </Text>
+    <Text name="core.ui.TutorialText9">檢查點：
+
+這是你必須通過的第一個檢查點。
+
+如果你在遊戲中失去了生命，你可以從最後一個檢查點繼續遊戲。
+
+按“回車”鍵繼續…
+    </Text>
+    <Text name="core.ui.TutorialText10">最後有一些提示：
+
+如果你在某個時候遇到困難或需要一些科技幫助，請查看“Ballance HTML幫助”，它可以通過Windows開始菜單訪問（不是在遊戲期間！）。
+
+額外提示：上面是原版提示。 如果你遇到了遊戲的BUG或是有新的建議，請前往項目 https://github.com/imengyu/ballance/issues/ 向我們提交Issues迴響錯誤。
+
+歡迎前往Ballance吧討論遊戲！
+
+按“回車”鍵退出教程…
+    </Text>
+    <Text name="core.ui.ProjectAbout">
+Ballance Rebuild是滾球Ballance遊戲的開源Unity重製版，由快樂的夢魚製作。
+
+你可以遊玩這個重製版，還可以根據此重製版製作自定義模組或者地圖，分享給其他玩家遊玩。
+
+項目的原始程式碼存放在 https://github.com/imengyu/Ballance 。
+
+如果你遇到了BUG，或者有很棒的點子，建議，歡迎前往項目主頁 https://github.com/imengyu/Ballance 提交你的Issue，我們一起討論呀。
+
+如果希望為Ballance開發自己的mod，關卡，歡迎前往 https://github.com/imengyu/Ballance/wiki 瞭解相關教程！
+
+也歡迎在Ballance吧討論遊戲。
+    </Text>
+  </Language>
+</I18n>

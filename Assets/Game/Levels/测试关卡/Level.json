@@ -1,0 +1,21 @@
+{
+  "name": "leveltest",
+  "author": "Ballance",
+  "version": "1.0",
+  "introduction": "一个测试关卡",
+  "requiredPackages": [],
+  "level": {
+    "firstBall": "BallStone",
+    "levelScore": 200,
+    "startPoint": 1000,
+    "startLife": 3,
+    "musicTheme": 5,
+    "skyBox": "I",
+    "skyLayer": "SkyLayer",
+    "nextLevel": "level01",
+    "lightColor": "#ffffff",
+    "sectorCount": 2,
+    "endWithUFO": true,
+    "autoGroup": true
+  }
+}

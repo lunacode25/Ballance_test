@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Phys_Dome
+  - Ball
+  - Phys_Floors
+  - Phys_FloorWoods
+  - Phys_FloorRails
+  - Phys_FloorStopper
+  - Phys_FloorDome
+  - Speical
+  - Others
+  - Background
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - EmptyLayer
+  - Water
+  - UI
+  - Ghost
+  - Ball
+  - Modul
+  - Floor
+  - Speical
+  - CustomRenderer
+  - CustomLayer12
+  - CustomLayer13
+  - CustomLayer14
+  - CustomLayer15
+  - CustomLayer16
+  - CustomLayer17
+  - CustomLayer18
+  - CustomLayer19
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
